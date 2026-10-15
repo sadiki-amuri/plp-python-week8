@@ -1,0 +1,22 @@
+=== PLP PYTHON TOOLKIT DEVELOPMENT PLAN ===
+
+1. Number-Guessing Game
+   - Description: A game that challenges the user to guess a hidden random number between 1 and 20 with dynamic hot/cold hints.
+   - Concepts used: loops (while), conditionals (if/elif/else), f-strings.
+
+2. Interactive To-Do List Tracker
+   - Description: A live data manager allowing users to continuously grow and shrink a list of daily actionable tasks.
+   - Concepts used: loops (while), lists (.append/.remove), conditionals (if/elif/else), checking membership (in), f-strings.
+
+3. Simple Calculator Utility
+   - Description: Performs quick mathematical operations (addition, subtraction, multiplication, division) between two user-provided numbers.
+   - Concepts used: conditionals (if/elif/else), error fallback guards, f-strings.
+
+Exact Menu Text Layout:
+----------------------------
+--- MAIN TOOLKIT MENU ---
+1. Play Number-Guessing Game
+2. Manage To-Do List Tracker
+3. Open Simple Calculator
+4. Quit Program
+----------------------------
